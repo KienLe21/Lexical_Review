@@ -12,8 +12,3 @@ if st.button("Check Spelling"):
     st.write("### **Corrected Text:**")
     st.write(corrected_text)
 
-    # Lưu kết quả vào file
-    with open("spellchecked_output.txt", "w") as f:
-        f.write(corrected_text)
-    
-    st.success("Corrected text saved to `spellchecked_output.txt`!")
