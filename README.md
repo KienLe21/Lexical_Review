@@ -10,7 +10,8 @@
    pip install -r requirements.txt
    ```
 3. Run app
-  ```
-  streamlit run app.py --server.runOnSave false
-  ```
+   ```
+   streamlit run app.py --server.runOnSave false
+   ```
+
    
