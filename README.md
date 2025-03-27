@@ -3,6 +3,8 @@
 
 [Basic design](#basic-design)
 
+[Detail design](#detail-design)
+
 
 ## Tutorial 
 1. Create virtual environment
